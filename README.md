@@ -1,4 +1,8 @@
 
-# Livro Receita
+# Livro de Receita
 
--- Strgonoff de Frango
+Olá !, Bem vindo ao meu livro de receitas! :wave:
+
+- Strgonoff de Frango
+- Pavê
+- Bolo de Cenoura
