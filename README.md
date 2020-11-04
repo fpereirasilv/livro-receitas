@@ -1,5 +1,5 @@
 
-# Livro de Receita
+# Livro de Receita :coo:
 
 Olá !, Bem vindo ao meu livro de receitas! :wave:
 
